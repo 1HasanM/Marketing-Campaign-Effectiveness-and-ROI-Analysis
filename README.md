@@ -1,1 +1,2 @@
-# Marketing-Campaign-Effectiveness-and-ROI-Analysis
+This project aims to evaluate campaign performance using an influencer marketing dataset. The project examined the impact of different social media platforms (TikTok, YouTube, Instagram, Twitter), campaign types, and influencer categories on campaign effectiveness. The analyses compared the contributions of each factor to average engagement, estimated reach, and product sales metrics.
+Because the dataset lacks campaign cost information, a direct ROI calculation was not possible. However, these analyses provide valuable insights into campaign strategies that yield the highest product sales and engagement. The findings offer important insights for planning future marketing campaigns and optimizing budget allocations.
